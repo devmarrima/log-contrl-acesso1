@@ -54,14 +54,12 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-			<version>3.4.4</version>  <!-- Ajuste para a versão do seu projeto -->
 		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
-			<version>6.2.2</version>  <!-- Ajuste conforme necessário -->
 		</dependency>
 
 	</dependencies>
